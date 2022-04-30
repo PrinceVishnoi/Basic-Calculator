@@ -1,32 +1,38 @@
 body{
-   background-image:url(https://wallpaperbat.com/img/449297-math-equations-wallpaper-2288x1617-42404.jpg);
+    background-image:url(https://i.etsystatic.com/23334810/r/il/35ae4e/2639986660/il_fullxfull.2639986660_g5r9.jpg);
+ 
+ }
+ .container{
 
-}
-.container{
-    text-align: center;
-    margin-top: 23px;
-}
-table{
-    margin: auto;
-}
-input{
-    border-radius: 21px;
-    border: 5px solid black;
-    width: auto;
-    font-size: 34px;
-}
-button{
-    border-radius:20px;
-    font-size: 40px;
-    background-color:rgb(145 144 157);
-    width: 102px;
-    height: 60px;
-}
-.calculator{
-    background-color:rgb(173 171 193);
-    border: 2px solid #3f3939 ;
-    padding: 20px;
-    border-radius: 20px;
-
-    display: inline-block;
-}
+     padding-top: 20px;
+     text-align: center;
+     margin-top: 23px;
+ }
+ table{
+     margin: auto;
+ }
+ input{
+     border-radius: 21px;
+     border: 5px solid black;
+     width: auto;
+     font-size: 34px;
+ }
+ button{
+     border-radius:20px;
+     font-size: 40px;
+     background-color:rgb(145 144 157);
+     width: 102px;
+     height: 60px;
+ }
+ .calculator{
+     background-color:rgb(204 204 204);
+     border:2px solid #ebebeb ;
+     padding: 20px;
+     border-radius: 20px;
+ 
+     display: inline-block;
+ }
+ h1{
+     color:#71a45d;
+     font-family: cursive;
+ }
